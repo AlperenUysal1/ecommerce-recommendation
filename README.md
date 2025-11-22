@@ -6,3 +6,5 @@ Bu proje, kullanıcı alışveriş geçmişine dayanarak ürün önerileri sunan
 ## Kullanım
 
 API'yi başlatmak için: uvicorn api:app --reload komutunu kullanın.
+
+- Pandas
