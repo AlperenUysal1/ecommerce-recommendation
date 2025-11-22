@@ -10,3 +10,5 @@ API'yi başlatmak için: uvicorn api:app --reload komutunu kullanın.
 - Pandas
 
 - Scikit-learn
+
+- FastAPI
